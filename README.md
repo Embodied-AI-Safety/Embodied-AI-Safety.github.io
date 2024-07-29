@@ -1,2 +1,2 @@
-# Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!
-This is the project page of the paper: Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!
+# The Threats of Embodied Multimodal LLMs: Jailbreaking Robotic Manipulation in the Physical World
+This is the project page of the paper: The Threats of Embodied Multimodal LLMs: Jailbreaking Robotic Manipulation in the  Physical World
